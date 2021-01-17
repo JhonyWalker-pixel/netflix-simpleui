@@ -7,7 +7,7 @@
 
 Clone of the netflix UI, functional and able to access (without the need for email and password) the series list, the selected series and the player loading. Come on see the [final result](https://jhonywalker-pixel.github.io/netflix-simpleui/)
 
-## :computer: Languages used
+## :computer: Used languages
 
 The cool thing is that this project only used CSS putting GRID into practice
 
